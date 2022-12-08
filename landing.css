@@ -1,0 +1,144 @@
+body{
+    padding: auto;
+    margin: auto;
+}
+
+.bgnav{
+    background-color: plum;
+    margin-top: -2%;
+    height: 50ch;
+}
+
+.satu {
+    margin-top: -20%;
+    margin-left: 10%;
+    font-size:x-large;
+    font-family: sans-serif;
+}
+
+.dua {
+    margin-left: 10%;
+    font-size:x-large;
+    font-family: sans-serif;
+
+
+}
+
+.tiga{
+    margin-left: 10%;
+    font-size:x-large;
+    font-family: sans-serif;
+}
+
+.imgnav{
+    width: 220px;
+    height: 250px;
+    float: right;
+    margin-right: 17%;
+    margin-top: -17%;
+    border-radius: 15%;
+}
+
+.bgmain{
+    background-color:bisque;
+    margin-top: 9.6%;
+    height: 53ch;
+}
+
+.bulat{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 15%;
+    border-radius: 50%;
+    margin-top: -29%;
+    padding-top: 2%;
+}
+
+.teks{
+    color: white;
+    margin-top: -25.5%;
+    margin-left: 17.5%;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.main1{
+    margin-left: 32%;
+    margin-top: -6.5%;
+}
+
+.imgright{
+    width: 180px;
+}
+
+.mainright{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1%;
+}
+
+.bgfooter1{
+    background-color: plum;
+    margin-top: 19%;
+    height: 50ch;
+}
+
+.footerteks{
+    margin-top: -30%;
+    font-size:x-large;
+    font-family: sans-serif;
+    margin-left: 5%;
+}
+
+hr{
+    margin-right: 86%;
+    margin-left: 3%;
+    margin-top: -2.6%;
+    
+}
+
+.footerimg{
+    width: 30%;
+    margin-left: 7%;
+    margin-top: 2.5%;
+    border-radius: 10%;
+}
+
+.endfooter{
+    background-color:rgb(250, 36, 214);
+    margin-top: 3.6%;
+    height: 38ch;
+
+    
+}
+
+.ig img{
+    width: 70px;
+    margin-bottom: 17%;
+}
+
+.fb img{
+    width: 60px;
+    margin-bottom: 16.6%;
+}
+
+.yt img{
+    width: 70px;
+    margin-bottom: 16.8%;
+    margin-left: 1%;
+}
+
+.endteksfooter{
+    float: right;
+    margin-top: -12%;
+    margin-right: 5%;
+    font-family: Helvetica, sans-serif;
+}
+
+.jl{
+    margin-top: -14%;
+}
+
+
